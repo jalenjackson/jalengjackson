@@ -6,7 +6,10 @@ export default class Chalkboard extends React.Component {
         return (
             <div>
 
-                <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(http://www.leafscience.org/wp-content/uploads/2017/03/ElderlyHealthCare-1140x810.jpg)", overflow: "hidden"}} className="home-container">
+                <div style={{background:"linear-gradient(rgba(0,0,0,0.4), black) , url(http://www.hsalam-bamako.com/wp-content/uploads/2016/12/o-HAPPY-PEOPLE-facebook.jpg) center center no-repeat", backgroundSize: "cover", overflow: "hidden"}} className="home-container">
+                    <div className="side-view">
+                        <img src="https://media.giphy.com/media/FI4mMqnV8yYNy/giphy.gif"/>
+                    </div>
                     <ReactCSSTransitionGroup
                         component="div"
                         transitionName="route"

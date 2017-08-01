@@ -10,9 +10,10 @@ export default class SideNav extends React.Component {
 
                     <div className="side-nav-a">
                         <h1>Projects</h1>
-                    <NavLink activeClassName="active-ness" to="/cellltronics">Cellltronics</NavLink><br/>
-                    <NavLink activeClassName="active-ness" to="/pthealthcare">Health Care Corp</NavLink><br/>
+                        <NavLink activeClassName="active-ness" to="/pthealthcare">Health Care Corp</NavLink><br/>
                         <NavLink activeClassName="active-ness" to="/hairobsessionz">Hair Obsessionz</NavLink><br/>
+
+                        <NavLink activeClassName="active-ness" to="/cellltronics">Cellltronics</NavLink><br/>
                         <NavLink activeClassName="active-ness" to="/chalkboard">Chalkboard</NavLink><br/>
                         <NavLink activeClassName="active-ness" to="/critic">Critic</NavLink><br/>
                     <NavLink activeClassName="active-ness" to="/tellafiction">TellAFiction</NavLink><br/>

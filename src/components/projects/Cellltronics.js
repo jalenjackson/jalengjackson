@@ -7,6 +7,9 @@ export default class Chalkboard extends React.Component {
             <div>
 
                 <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(http://pete.langezone.com/pics/malmaison/books-1920.jpg) center center no-repeat", overflow: "hidden"}} className="home-container">
+                    <div className="side-view">
+                        <img src="https://media.giphy.com/media/lbH5Xrw5VGkPS/giphy.gif"/>
+                    </div>
                     <ReactCSSTransitionGroup
                         component="div"
                         transitionName="route"
@@ -31,7 +34,11 @@ export default class Chalkboard extends React.Component {
                     </ReactCSSTransitionGroup>
                     <a target="blank" href="https://cellltronics.herokuapp.com/"><h5>Visit<img className="arrow" src="https://image.flaticon.com/icons/png/512/60/60934.png"/></h5></a>
                     <a target="blank" href="https://cellltronicsbackup.herokuapp.com/"><h5>Visit First Draft<img className="arrow" src="https://image.flaticon.com/icons/png/512/60/60934.png"/></h5></a>
+
+
+
                 </div>
+
             </div>
         )
     }
