@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832114c5-d5bf-40ac-944c-3f035d981730" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.js" afterPath="$PROJECT_DIR$/src/components/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideNav.js" afterPath="$PROJECT_DIR$/src/components/SideNav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Critic.js" afterPath="$PROJECT_DIR$/src/components/projects/Critic.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Critic.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Critic.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="406">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SideNav.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SideNav.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -205,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
         <option value="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Chalkboard.js" />
-        <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Tellafiction.js" />
         <option value="$PROJECT_DIR$/src/components/projects/YoutubeApi.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Vrartgo.js" />
@@ -214,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
         <option value="$PROJECT_DIR$/src/components/SideNav.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
       </list>
     </option>
   </component>
@@ -515,7 +514,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85205000" />
+    <option name="totallyTimeSpent" value="85292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -803,14 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/Tellafiction.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -873,6 +864,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
