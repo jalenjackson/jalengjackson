@@ -13,7 +13,7 @@ import YoutubeApi from './projects/YoutubeApi'
 import HairObsessionz from './projects/HairObsessionz'
 import About from './About'
 import Projects from './Projects'
-
+import Mpproductions from './projects/Mpproductions'
 
 
 
@@ -41,6 +41,8 @@ export default class App extends Component {
             <Route path='/critic' component={Critic}/>
             <Route path='/about' component={About}/>
               <Route path='/projects' component={Projects}/>
+            <Route path='/mpproductions' component={Mpproductions}/>
+
           </div>
         </div>
       </BrowserRouter>

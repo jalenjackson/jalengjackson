@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832114c5-d5bf-40ac-944c-3f035d981730" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/stylesheets/index.css" afterPath="$PROJECT_DIR$/src/assets/stylesheets/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.js" afterPath="$PROJECT_DIR$/src/components/App.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideNav.js" afterPath="$PROJECT_DIR$/src/components/SideNav.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Cellltronics.js" afterPath="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Chalkboard.js" afterPath="$PROJECT_DIR$/src/components/projects/Chalkboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Critic.js" afterPath="$PROJECT_DIR$/src/components/projects/Critic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" afterPath="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" afterPath="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Tellafiction.js" afterPath="$PROJECT_DIR$/src/components/projects/Tellafiction.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Vrartgo.js" afterPath="$PROJECT_DIR$/src/components/projects/Vrartgo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/YoutubeApi.js" afterPath="$PROJECT_DIR$/src/components/projects/YoutubeApi.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,18 +18,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cellltronics.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/Cellltronics.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Chalkboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Chalkboard.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,33 +70,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PtHealthcare.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PtHealthcare.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/PtHealthcare.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="170" lean-forward="false" selection-start-line="8" selection-start-column="170" selection-end-line="8" selection-end-column="170" />
+              <caret line="8" column="170" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SideNav.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SideNav.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HairObsessionz.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
+      <file leaf-file-name="Mpproductions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="428">
+              <caret line="33" column="65" lean-forward="false" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="43" column="67" lean-forward="false" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
               <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -210,13 +199,11 @@
         <option value="$PROJECT_DIR$/src/components/Nav.js" />
         <option value="$PROJECT_DIR$/src/components/MainNav.js" />
         <option value="$PROJECT_DIR$/src/components/Intro.js" />
-        <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/Home.js" />
         <option value="$PROJECT_DIR$/src/components/About.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
         <option value="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
-        <option value="$PROJECT_DIR$/src/components/SideNav.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Chalkboard.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Tellafiction.js" />
@@ -224,6 +211,9 @@
         <option value="$PROJECT_DIR$/src/components/projects/Vrartgo.js" />
         <option value="$PROJECT_DIR$/src/assets/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" />
+        <option value="$PROJECT_DIR$/src/components/App.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
+        <option value="$PROJECT_DIR$/src/components/SideNav.js" />
       </list>
     </option>
   </component>
@@ -525,7 +515,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84404000" />
+    <option name="totallyTimeSpent" value="85205000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -562,16 +552,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/projects/Chalkboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -766,13 +746,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Intro.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -807,14 +780,6 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +846,33 @@
     <entry file="file://$PROJECT_DIR$/src/components/projects/PtHealthcare.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="170" lean-forward="false" selection-start-line="8" selection-start-column="170" selection-end-line="8" selection-end-column="170" />
+          <caret line="8" column="170" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="43" column="67" lean-forward="false" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="33" column="65" lean-forward="false" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
           <folding />
         </state>
       </provider>
