@@ -345,9 +345,37 @@ a, u {
   margin-bottom: 0px;
   width:400px !important;
   height:200px;
-  background:lightblue;
+  background:rgb(31,31,31);
   z-index: 9999999999999999999;
   overflow: hidden;
+}
+
+.loader {
+    width:100px;
+    height: 100px;
+    display: block;
+    position: absolute;
+  left: 150px;
+  top: 50px;
+  z-index: -1;
+    margin: 0 auto;
+    background:none;
+    border-radius: 100%;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    animation: spin 800ms ease-in-out forwards infinite;
+}
+
+
+
+@keyframes spin {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+
+    }
 }
 
 .side-view img {

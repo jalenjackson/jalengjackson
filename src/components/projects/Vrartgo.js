@@ -8,6 +8,8 @@ export default class Chalkboard extends React.Component {
 
                 <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(https://s-media-cache-ak0.pinimg.com/originals/97/26/92/9726920c75bb87fcc9a57dc3063d62cf.gif) center center no-repeat", overflow: "hidden", backgroundSize: "cover"}} className="home-container">
                     <div className="side-view">
+                        <div className="loader"></div>
+
                         <img src="https://media.giphy.com/media/wvyXwnKNnNeJq/giphy.gif"/>
                     </div>
                     <ReactCSSTransitionGroup
