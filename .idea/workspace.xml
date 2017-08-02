@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832114c5-d5bf-40ac-944c-3f035d981730" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/stylesheets/index.css" afterPath="$PROJECT_DIR$/src/assets/stylesheets/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Cellltronics.js" afterPath="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Chalkboard.js" afterPath="$PROJECT_DIR$/src/components/projects/Chalkboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Critic.js" afterPath="$PROJECT_DIR$/src/components/projects/Critic.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" afterPath="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Mpproductions.js" afterPath="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" afterPath="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Tellafiction.js" afterPath="$PROJECT_DIR$/src/components/projects/Tellafiction.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Vrartgo.js" afterPath="$PROJECT_DIR$/src/components/projects/Vrartgo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/YoutubeApi.js" afterPath="$PROJECT_DIR$/src/components/projects/YoutubeApi.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +17,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Chalkboard.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chalkboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Chalkboard.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
@@ -39,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Critic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
+      <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/About.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="224">
+              <caret line="14" column="97" lean-forward="true" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="189" />
               <folding />
             </state>
           </provider>
@@ -69,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HairObsessionz.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HairObsessionz.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="176">
+              <caret line="8" column="255" lean-forward="false" selection-start-line="8" selection-start-column="255" selection-end-line="8" selection-end-column="255" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -216,7 +206,6 @@
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/SideNav.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
-        <option value="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
         <option value="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Tellafiction.js" />
@@ -225,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
         <option value="$PROJECT_DIR$/src/assets/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/src/components/projects/Chalkboard.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
       </list>
     </option>
   </component>
@@ -522,12 +512,12 @@
       <workItem from="1501296271484" duration="2683000" />
       <workItem from="1501452731457" duration="14085000" />
       <workItem from="1501539668689" duration="658000" />
-      <workItem from="1501639488918" duration="805000" />
+      <workItem from="1501639488918" duration="1132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86267000" />
+    <option name="totallyTimeSpent" value="86594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -765,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/About.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="14" column="97" lean-forward="true" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="189" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -807,16 +790,6 @@
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,6 +855,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="97" lean-forward="true" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="189" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="255" lean-forward="false" selection-start-line="8" selection-start-column="255" selection-end-line="8" selection-end-column="255" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>

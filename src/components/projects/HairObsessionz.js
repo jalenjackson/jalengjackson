@@ -6,7 +6,7 @@ export default class Chalkboard extends React.Component {
         return (
             <div>
 
-                <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(https://www.paidmodelingjobs.com/wp-content/uploads/2017/02/RSA-Promotional-Models.jpeg) center center no-repeat", overflow: "hidden"}} className="home-container">
+                <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(https://www.paidmodelingjobs.com/wp-content/uploads/2017/02/RSA-Promotional-Models.jpeg) center center no-repeat", overflow: "hidden", backgroundSize: "cover"}} className="home-container">
                     <div className="side-view">
                         <div className="loader"></div>
 
