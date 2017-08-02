@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832114c5-d5bf-40ac-944c-3f035d981730" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" afterPath="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Critic.js" afterPath="$PROJECT_DIR$/src/components/projects/Critic.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,6 +25,16 @@
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Critic.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="8" column="285" lean-forward="false" selection-start-line="8" selection-start-column="285" selection-end-line="8" selection-end-column="285" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HairObsessionz.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HairObsessionz.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -108,16 +118,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="82">
               <caret line="369" column="0" lean-forward="false" selection-start-line="369" selection-start-column="0" selection-end-line="369" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mpproductions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -205,7 +205,6 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/SideNav.js" />
-        <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
         <option value="$PROJECT_DIR$/src/components/projects/PtHealthcare.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Tellafiction.js" />
@@ -215,6 +214,7 @@
         <option value="$PROJECT_DIR$/src/assets/stylesheets/index.css" />
         <option value="$PROJECT_DIR$/src/components/projects/Chalkboard.js" />
         <option value="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
       </list>
     </option>
   </component>
@@ -512,12 +512,12 @@
       <workItem from="1501296271484" duration="2683000" />
       <workItem from="1501452731457" duration="14085000" />
       <workItem from="1501539668689" duration="658000" />
-      <workItem from="1501639488918" duration="1132000" />
+      <workItem from="1501639488918" duration="1281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86594000" />
+    <option name="totallyTimeSpent" value="86743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -785,14 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -876,6 +868,14 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/Critic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="285" lean-forward="false" selection-start-line="8" selection-start-column="285" selection-end-line="8" selection-end-column="285" />
+          <folding />
         </state>
       </provider>
     </entry>
