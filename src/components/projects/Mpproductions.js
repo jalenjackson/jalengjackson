@@ -31,9 +31,11 @@ export default class Mpproductions extends React.Component {
                         transitionLeaveTimeout={4000}
                         transitionAppear={true}
                     >
-                        <h1><span>Mpproductions</span></h1>
+                        <h1><span>Calvin Productions</span></h1>
                     </ReactCSSTransitionGroup>
-                    <a target="blank" href="https://mpproductions.herokuapp.com/"><h5>Visit<img className="arrow" src="https://image.flaticon.com/icons/png/512/60/60934.png"/></h5></a>
+                    <a target="blank" href="http://www.calvinproductions.com/"><h5>Visit<img className="arrow" src="https://image.flaticon.com/icons/png/512/60/60934.png"/></h5></a>
+
+                    <a target="blank" href="https://mpproductions.herokuapp.com/"><h5>Backup Link<img className="arrow" src="https://image.flaticon.com/icons/png/512/60/60934.png"/></h5></a>
 
                 </div>
             </div>

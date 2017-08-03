@@ -23,7 +23,7 @@ export default class Chalkboard extends React.Component {
                         transitionAppear={true}
                     >
 
-                        <div style={{background: "url('http://www.adrenalinmedia.com.au/Upload/AdrenalinMedia/Media/Insights/2015-05-Animated%20Interfaces/benefits03.gif') center center no-repeat", backgroundSize: "cover", filter: "grayscale(100%)"}} className="overlay-ani"></div>
+                        <div style={{background: "url('http://www.adrenalinmedia.com.au/Upload/AdrenalinMedia/Media/Insights/2015-05-Animated%20Interfaces/benefits03.gif') center center no-repeat", backgroundSize: "cover", filter: "blur(10px) grayscale(100%)"}} className="overlay-ani"></div>
                     </ReactCSSTransitionGroup>
                     <ReactCSSTransitionGroup
                         component="div"
