@@ -6,11 +6,11 @@ export default class Mpproductions extends React.Component {
         return (
             <div>
 
-                <div style={{background:"linear-gradient(rgba(0,0,0,0.4), black) , url(http://i0.wp.com/volumemagazine.net/wp-content/uploads/2016/05/22790194260_c5d31f280e_k.jpg?resize=1000%2C600) center center no-repeat", backgroundSize: "cover", overflow: "hidden"}} className="home-container">
+                <div style={{background:"linear-gradient(rgba(0,0,0,0.4), black) , url(https://i0.wp.com/rebelmusic.info/wp-content/uploads/2014/09/o-THOM-YORKE-facebook.jpg?fit=2000%2C1000) center center no-repeat", backgroundSize: "cover", overflow: "hidden"}} className="home-container">
                     <div className="side-view">
                         <div className="loader"></div>
 
-                        <img src="https://media.giphy.com/media/9psMVAvh0eI4E/giphy.gif"/>
+                        <img src="https://media.giphy.com/media/12LLRqg7KTjSlW/giphy.gif"/>
                     </div>
                     <ReactCSSTransitionGroup
                         component="div"

@@ -23,7 +23,7 @@
       <file leaf-file-name="Chalkboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Chalkboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="220">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -65,7 +65,7 @@
       <file leaf-file-name="HairObsessionz.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="176">
               <caret line="8" column="255" lean-forward="false" selection-start-line="8" selection-start-column="255" selection-end-line="8" selection-end-column="255" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -74,31 +74,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SideNav.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SideNav.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="21" column="86" lean-forward="false" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vrartgo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/Vrartgo.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="12" column="113" lean-forward="false" selection-start-line="12" selection-start-column="113" selection-end-line="12" selection-end-column="113" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mpproductions.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainNav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/MainNav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mpproductions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="35" column="77" lean-forward="false" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+            <state relative-caret-position="105">
+              <caret line="8" column="189" lean-forward="false" selection-start-line="8" selection-start-column="189" selection-end-line="8" selection-end-column="189" />
               <folding />
             </state>
           </provider>
@@ -107,8 +107,8 @@
       <file leaf-file-name="Cellltronics.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Cellltronics.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="25" column="258" lean-forward="false" selection-start-line="25" selection-start-column="258" selection-end-line="25" selection-end-column="258" />
+            <state relative-caret-position="550">
+              <caret line="25" column="232" lean-forward="false" selection-start-line="25" selection-start-column="232" selection-end-line="25" selection-end-column="232" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -216,8 +216,8 @@
         <option value="$PROJECT_DIR$/src/components/projects/HairObsessionz.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Critic.js" />
         <option value="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
-        <option value="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
         <option value="$PROJECT_DIR$/src/components/SideNav.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
       </list>
     </option>
   </component>
@@ -258,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -382,6 +381,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -516,12 +516,16 @@
       <workItem from="1501452731457" duration="14085000" />
       <workItem from="1501539668689" duration="658000" />
       <workItem from="1501639488918" duration="1737000" />
-      <workItem from="1501727650643" duration="224000" />
+      <workItem from="1501727650643" duration="355000" />
+      <workItem from="1501728433670" duration="6000" />
+      <workItem from="1501785116709" duration="329000" />
+      <workItem from="1501786025013" duration="30000" />
+      <workItem from="1501786085010" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87423000" />
+    <option name="totallyTimeSpent" value="87931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -586,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,13 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/MainNav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Intro.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Home.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -785,7 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/Chalkboard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="220">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
@@ -841,7 +833,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/HairObsessionz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="176">
           <caret line="8" column="255" lean-forward="false" selection-start-line="8" selection-start-column="255" selection-end-line="8" selection-end-column="255" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
@@ -857,28 +849,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/Cellltronics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="25" column="258" lean-forward="false" selection-start-line="25" selection-start-column="258" selection-end-line="25" selection-end-column="258" />
+        <state relative-caret-position="550">
+          <caret line="25" column="232" lean-forward="false" selection-start-line="25" selection-start-column="232" selection-end-line="25" selection-end-column="232" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
+    <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="35" column="77" lean-forward="false" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+        <state relative-caret-position="220">
+          <caret line="12" column="113" lean-forward="false" selection-start-line="12" selection-start-column="113" selection-end-line="12" selection-end-column="113" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SideNav.js">
+    <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="21" column="86" lean-forward="false" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+        <state relative-caret-position="105">
+          <caret line="8" column="189" lean-forward="false" selection-start-line="8" selection-start-column="189" selection-end-line="8" selection-end-column="189" />
           <folding />
         </state>
       </provider>
