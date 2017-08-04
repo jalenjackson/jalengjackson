@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="832114c5-d5bf-40ac-944c-3f035d981730" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/SideNav.js" afterPath="$PROJECT_DIR$/src/components/SideNav.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Cellltronics.js" afterPath="$PROJECT_DIR$/src/components/projects/Cellltronics.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/projects/Mpproductions.js" afterPath="$PROJECT_DIR$/src/components/projects/Mpproductions.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -97,8 +95,8 @@
       <file leaf-file-name="Mpproductions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="189" lean-forward="false" selection-start-line="8" selection-start-column="189" selection-end-line="8" selection-end-column="189" />
+            <state relative-caret-position="228">
+              <caret line="12" column="87" lean-forward="false" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -258,7 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -382,6 +379,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -520,12 +518,13 @@
       <workItem from="1501728433670" duration="6000" />
       <workItem from="1501785116709" duration="329000" />
       <workItem from="1501786025013" duration="30000" />
-      <workItem from="1501786085010" duration="12000" />
+      <workItem from="1501786085010" duration="152000" />
+      <workItem from="1501807410448" duration="88000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87931000" />
+    <option name="totallyTimeSpent" value="88159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -877,8 +876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/Mpproductions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="189" lean-forward="false" selection-start-line="8" selection-start-column="189" selection-end-line="8" selection-end-column="189" />
+        <state relative-caret-position="228">
+          <caret line="12" column="87" lean-forward="false" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
           <folding />
         </state>
       </provider>

@@ -10,7 +10,7 @@ export default class Mpproductions extends React.Component {
                     <div className="side-view">
                         <div className="loader"></div>
 
-                        <img src="https://media.giphy.com/media/12LLRqg7KTjSlW/giphy.gif"/>
+                        <img src="https://media.giphy.com/media/p89AAP64RLv0I/giphy.gif"/>
                     </div>
                     <ReactCSSTransitionGroup
                         component="div"
