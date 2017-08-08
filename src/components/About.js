@@ -5,14 +5,8 @@ export default class Chalkboard extends React.Component {
     render(){
         return (
             <div>
-                <div style={{zIndex: "999999999999999999999999999999999999"}} className="intro-container">
 
-                    <video style={{zIndex: "999999999999999999999999999999999999"}} autoPlay={true}  width="320" height="240" controls={false} muted={true}>
-                        <source src={require("../assets/video.webm")} type="video/webm"/>
-                    </video>
-
-                </div>
-                <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(https://s-media-cache-ak0.pinimg.com/originals/b2/13/23/b21323492597bcd13e06b74dab18c7d9.jpg) center center no-repeat", overflow: "hidden"}} className="home-container">
+                <div style={{background:"linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.9)) , url(http://38.media.tumblr.com/587f48c6548e640f943b7c8c6e3f40de/tumblr_mz8yzmi1XJ1ru39xmo1_500.gif) center center no-repeat",backgroundSize: "cover", overflow: "hidden"}} className="home-container">
                     <ReactCSSTransitionGroup
                         component="div"
                         transitionName="route"

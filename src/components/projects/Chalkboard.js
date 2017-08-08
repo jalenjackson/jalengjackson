@@ -8,6 +8,7 @@ export default class Chalkboard extends React.Component {
 
                 <div style={{background:"linear-gradient(rgba(0,0,0,0.4), black) , url(http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/201407-w-most-beautiful-libraries-in-the-world-klementinum-prague.jpg?itok=iEn3LTLq) center center no-repeat", overflow: "hidden"}} className="home-container">
                     <div className="side-view">
+                        <div className="loader"></div>
 
                         <img src="https://media.giphy.com/media/wTwD7zPY6fCMw/giphy.gif"/>
                     </div>
