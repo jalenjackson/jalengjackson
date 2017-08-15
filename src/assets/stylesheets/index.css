@@ -179,10 +179,10 @@ a, u {
 .logo-img {
   position: fixed;
   left: 50%;
-  top:-10px;
+  top:3px;
   transform: translate(-50%, 0);
-  width:100px;
-  height:100px;
+  width:70px;
+  height:70px;
   cursor:pointer;
 }
 

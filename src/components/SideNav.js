@@ -20,6 +20,8 @@ export default class SideNav extends React.Component {
                     <NavLink activeClassName="active-ness" to="/vrartgo">Vrartgo</NavLink><br/>
                     <h1 style={{marginTop: "30px"}}>New Client Projects Under Development</h1>
                         <NavLink activeClassName="active-ness" to="/critic">Critic</NavLink><br/>
+                        <h1 style={{marginTop: "30px"}}>Quick Designs</h1>
+                        <NavLink activeClassName="active-ness" to="/blackhole">Black Hole</NavLink><br/>
 
                     </div>
                 </div>

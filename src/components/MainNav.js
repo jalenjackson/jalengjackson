@@ -8,7 +8,7 @@ export default class MainNav extends React.Component {
         return (
             <div>
                 <div className="nav-container">
-                    <NavLink to="/"> <img className="logo-img" src="http://logok.org/wp-content/uploads/2017/01/Juventus-logo-2017-350x302.png"/></NavLink>
+                    <NavLink to="/"> <img className="logo-img" src="https://s-media-cache-ak0.pinimg.com/originals/25/07/70/25077049635d068748fe91f84c5b9b9f.jpg"/></NavLink>
                   <div className="inner-nav">
                   <NavLink style={{color:"black"}} className="about-me" activeClassName="about-link" to="/about">About Me</NavLink>
                   </div>

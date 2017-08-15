@@ -14,6 +14,7 @@ import HairObsessionz from './projects/HairObsessionz'
 import About from './About'
 import Projects from './Projects'
 import Mpproductions from './projects/Mpproductions'
+import BlackHole from './projects/Blackhole'
 
 
 
@@ -42,6 +43,7 @@ export default class App extends Component {
             <Route path='/about' component={About}/>
               <Route path='/projects' component={Projects}/>
             <Route path='/mpproductions' component={Mpproductions}/>
+            <Route path='/blackhole' component={BlackHole}/>
 
           </div>
         </div>
